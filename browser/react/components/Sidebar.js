@@ -33,7 +33,7 @@ const Sidebar = (props) => {
           </Link>
         </h4>
         <hr />
-        <h4 className="menu-item"><a href="https://github.com/gabrieldefazio/juke" target="_blank">Source (Github)</a></h4>
+        <h4 className="menu-item"><a href="https://github.com/gabrieldefazio/juke-react" target="_blank">Source (Github)</a></h4>
       </section>
 
     </sidebar>
